@@ -1,16 +1,11 @@
-### Hi there 👋
+### 你好 👋
 
-<!--
-**adlered/adlered** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+我是 `JXU5NjQ4JXU4Rjg5JXVGRjBDMTkldTVDODE=`  
+我是一名业余编程爱好者，在工作之余写一些自己突发奇想的小项目。技术水平不高，热爱开源、热爱分享。  
+创立 [@用爱发电](https://github.com/Programming-With-Love) 组织初衷是想招纳真正热爱开源的同学们共同交流的一个小平台。  
+欢迎更多的开源爱好者 [加入用爱发电大家庭](https://hacpai.com/article/1570552518797) :)  
+做的项目大多都是纯功能向的，自己能用到、自己喜欢用的，才敢开源出来供大家体验。  
+目前正在维护包括 [个人博客](https://www.stackoverflow.wiki)、OSS对象存储（菠萝博客动态壁纸、在线看板娘、视频教程）、服务器及CDN加速（[图床](https://pic.stackoverflow.wiki)、[组织官网](https://programmingwithlove.stackoverflow.wiki)）、[菠萝博客系统](https://github.com/adlered/bolo-solo)、[CSDNGreener](https://github.com/adlered/CSDNGreener)、[Picuang图床](https://github.com/adlered/Picuang) 以及仓库中所有的开源项目。  
+我认为对于开源开发者，比资助更重要的是来自用户的由衷鼓励，也是动力来源。而获得赞赏的关键，就是保持稳定的项目维护周期，以及积极处理用户的反馈。  
+欢迎体验我的开源项目，有任何疑问和提议都欢迎与我交流。  
+最重要不过的就是保持愉快了 :)
