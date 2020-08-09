@@ -2,7 +2,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=adlered&show_icons=true)
 
-<a title="Hits" target="_blank" href="https://github.com/adlered/hits"><img src="https://hits.b3log.org/adlered/hits.svg"></a>
+<a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/adlered/hits.svg"></a>
 
 我是一名业余编程爱好者，在工作之余写一些自己突发奇想的小项目。技术水平不高，热爱开源、热爱分享。  
 创立 [@用爱发电](https://github.com/Programming-With-Love) 组织初衷是想招纳真正热爱开源的同学们共同交流的一个小平台。  
