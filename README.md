@@ -1,4 +1,4 @@
-![Github Stats](https://github-readme-stats.vercel.app/api?username=adlered&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=adlered&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ### 你好 👋 <a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/adlered/hits.svg"></a>
 
