@@ -1,6 +1,8 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=adlered)
 
-### 你好 👋 <a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/adlered/hits.svg"></a>
+当前页面访问次数统计：<a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/adlered/hits.svg"></a>
+
+### 你好 👋
 
 我是一名业余编程爱好者，在工作之余写一些自己突发奇想的小项目。技术水平不高，热爱开源、热爱分享。  
 欢迎你对我的项目提出宝贵的意见和建议 :)  
